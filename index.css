@@ -3034,7 +3034,9 @@ background-color: aqua;
         left: -100%;
         top: 76px;
         transition: 1s;
-        background-color:grey;
+        
+        background-color: rgba(0, 0, 0, 0.8);
+    
         line-height: 100px;
     
     }
