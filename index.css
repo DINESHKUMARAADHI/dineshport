@@ -3161,7 +3161,6 @@ background-color: aqua;
         width: auto;
         height: auto;
         padding: 0px 20px;
-        margin-top: 20px;
         
     }
     
@@ -3223,7 +3222,8 @@ background-color: aqua;
         width: 50%;
         height: 100%;
         display: flex;
-        flex-direction: column; 
+        flex-direction: column;
+        padding-top:20px; 
     }
     
     
@@ -3513,7 +3513,8 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         padding: 50px;
         margin-bottom: -30px;
         padding: 20px;
-        
+        padding-top: 100px;
+
         
     }
 
