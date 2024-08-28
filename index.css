@@ -3028,13 +3028,14 @@ background-color: aqua;
     }
     .mynav{
         width: 40%;
+        height: 1200px;
         padding: 0px;
         position: absolute;
         left: -100%;
         top: 76px;
         transition: 1s;
         background-color:grey;
-        line-height: 105px;
+        line-height: 100px;
     
     }
     .Aadhi{
