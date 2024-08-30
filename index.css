@@ -3024,7 +3024,7 @@ background-color: aqua;
         display: flex;
         align-items: center;
         justify-content: space-between;
-        padding: 20px;
+        padding: 0px 20px;
         background-color: red;
     }
     .mynav{
@@ -3384,7 +3384,6 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         margin-top: 0px;
         background-color:red;
 
-    
     }
     
     .thirdpageheader{
