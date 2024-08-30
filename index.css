@@ -3020,6 +3020,7 @@ background-color: aqua;
         z-index: 9999;
     }
     .navtop{
+        height: 80px;
         display: flex;
         align-items: center;
         justify-content: space-between;
@@ -3163,6 +3164,7 @@ background-color: aqua;
         width: auto;
         height: auto;
         padding: 0px 20px;
+        margin-top: 80px;
         
     }
     
@@ -3240,7 +3242,7 @@ background-color: aqua;
         width: auto;
         height: auto;
         padding: 0px 20px;
-        margin-top: 20px;
+        margin-top: 80px;
         
     }
     
@@ -3379,7 +3381,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         display: flex;
         flex-direction: column;
         padding: 0px 20px;
-        margin-top: 20px;
+        margin-top: 80px;
     
     }
     
@@ -3512,7 +3514,7 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
         display: flex;
         justify-content:flex-start;
         flex-direction: column;
-        margin-top:70px;
+        margin-top:80px;
         padding: 50px;
         margin-bottom: -30px;
         padding: 20px;
@@ -4568,3 +4570,5 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 
 }
+
+
